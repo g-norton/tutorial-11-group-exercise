@@ -1,3 +1,3 @@
-newname <- function(vec) {
+differentname <- function(vec) {
   vec^3
 }
