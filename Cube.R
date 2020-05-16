@@ -1,3 +1,3 @@
-cube <- function(vec) {
+bettername <- function(vec) {
   vec^3
 }
